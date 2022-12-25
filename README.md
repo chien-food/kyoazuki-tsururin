@@ -1,2 +1,0 @@
-# kyoazuki-tsururin
-hello
